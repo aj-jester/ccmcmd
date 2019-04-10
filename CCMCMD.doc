@@ -1,0 +1,619 @@
+Date: Thu, 4 Apr 2019 08:38:40 +0000 (UTC)
+Message-ID: <1666282396.133.1554367120676@c1f910731704>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_132_489727717.1554367120675"
+
+------=_Part_132_489727717.1554367120675
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>CCMCMD</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>CCMCMD</h1>
+    <div class=3D"Section1">
+        <p>CCMCMD is just a glorified wrapper written in python and package=
+d in pip making day to day operations a little easier.</p>
+<h2 id=3D"CCMCMD-HowtoUse">How to Use</h2>
+<ul>
+<li><p class=3D"auto-cursor-target">SSH into one of these hosts and&nbsp;<c=
+ode>sudo -i</code>.</p>
+<ul>
+<li>IAD1: influx-db-1.ops.iad1.ccmteam.com</li>
+<li>SLC1: influx-db-1.ops.slc1.ccmteam.com</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">Run the&nbsp;<code>--help</code> to ens=
+ure everything is copacetic.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd --=
+help</pre>=20
+</div>
+</div></li>
+</ul>
+<h2 id=3D"CCMCMD-Applications">Applications</h2>
+<p>Currently ccmcmd supports the following applications.</p>
+<ul>
+<li><p class=3D"auto-cursor-target">Icinga</p>
+<ul>
+<li>Set Downtime</li>
+<li>&nbsp;Delete Downtime</li>
+</ul></li>
+<li>Consul
+<ul>
+<li>Get KeyVal</li>
+<li>Put KeyVal</li>
+<li>Delete KeyVal</li>
+</ul></li>
+</ul>
+<h2 id=3D"CCMCMD-Icinga">Icinga</h2>
+<p>Icinga integration is done via LiveStatus.</p>
+<ul>
+<li><p class=3D"auto-cursor-target">downtime-set: Set downtime on hosts for=
+ up to 24 hours (toggle-able)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd ic=
+inga --fqdn [FQDN] downtime-set --hours [HOURS]</pre>=20
+</div>
+</div></li>
+<li><p class=3D"auto-cursor-target">downtime-delete: Delete <strong><em>all=
+</em></strong> previously set downtimes.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd ic=
+inga --fqdn [FQDN] downtime-delete</pre>=20
+</div>
+</div></li>
+</ul>
+<h2 id=3D"CCMCMD-Consul">Consul</h2>
+<p>Consul integration is done via API using token. Currently only the KV st=
+ore can be interacted with, in the future more of consul's features will be=
+ integrated.</p>
+<p>KV Store</p>
+<ul>
+<li>Commands
+<ul>
+<li>keyval-get</li>
+<li>keyval-put</li>
+<li>keyval-delete</li>
+</ul></li>
+<li>Apps
+<ul>
+<li>facter</li>
+<li>hiera</li>
+<li>icinga</li>
+</ul></li>
+</ul>
+<h3 id=3D"CCMCMD-keyval-get">keyval-get</h3>
+<p>keyval-get is the most extensive out of the 3. Lets start with the large=
+st data set possible and drill down.</p>
+<ul>
+<li><p class=3D"auto-cursor-target">Get a list of all hosts in IAD1.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3Dall keyval-get</pre>=20
+</div>
+</div><p class=3D"auto-cursor-target">Okay, thats way too many hosts.</p></=
+li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">Get a list of all KeyVal from a group o=
+f hosts that start with say&nbsp;<code>gluster</code></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3Dgluster keyval-get</pre>=20
+</div>
+</div><p class=3D"auto-cursor-target">Thats better but please note if you d=
+on't use regex only&nbsp;<code>gluster-server</code> is matched, not&nbsp;<=
+code>server-gluster</code>.</p></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">If you would like to match the word any=
+where in the&nbsp;<code>FQDN</code> use RegEx.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3D".*rabbit" keyval-get</pre>=20
+</div>
+</div><p class=3D"auto-cursor-target">In fact you can use any supported reg=
+ex to find the hostname and its KeyVal.</p></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">But that is still a lot of values for h=
+osts like Mongo or CDH where there are a lot of them. Use&nbsp;<code>--filt=
+er_re</code> to filter them down further, it supports RegEx as well.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3D".*mongo" keyval-get --filter_re "^megaraid$"</pre>=20
+</div>
+</div><p class=3D"auto-cursor-target">Now you will see a list trimmed down =
+a bit more.</p></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">Sometimes you will see the&nbsp;<code>-=
+-filter_re</code> match both the&nbsp;<code>KEY</code> and <code>VALUE</cod=
+e> columns. Use&nbsp;<code>--filter_col</code> with either&nbsp;<code>key</=
+code> or&nbsp;<code>value</code> for argument to run&nbsp;<code>--filter_re=
+</code> its run against the&nbsp;<code>KEY</code> or&nbsp;<code>VALUE</code=
+> column, respectively.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3Dall keyval-get --filter_re mongo --filter_col value</pre>=20
+</div>
+</div><p class=3D"auto-cursor-target">Now you will see this generated the s=
+ame output as the previous command. This is another way you could filter.</=
+p></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">Filter a partial key</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3Dall keyval-get --filter_re "ccm-.*" --filter_col key</pre>=20
+</div>
+</div></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p class=3D"auto-cursor-target">Filter based on app</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn=3Dall keyval-get --filter_re "ccm-.*" --app facter</pre>=20
+</div>
+</div></li>
+</ul>
+<p>We can keep going all day but that should at least get you started on th=
+e basics, play around with it and find your own unique ways of getting keys=
+.</p>
+<h3 id=3D"CCMCMD-keyval-put">keyval-put</h3>
+<p>keyval-put is to add new keys or update existing keys.</p>
+<p><br></p>
+<p>Lets add/update a key to hiera app.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-put --app hiera --key over-9000 --value true
+
+2018-09-21 19:07:13,718 - ccmcmd.ccmlog - INFO - Successfully put key over-=
+9000 in app hiera.</pre>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target">You can view the added/updated key.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-get --app hiera
++--------------------------------+-----------------------------------------=
+-----------+
+|           App: hiera           |      FQDN:             [FQDN]           =
+           |
++=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D+
+| KEY                            | VALUE                                   =
+           |
++--------------------------------+-----------------------------------------=
+-----------+
+| over-9000                      | true                                    =
+           |
++--------------------------------+-----------------------------------------=
+-----------+
+
+2018-09-21 19:07:34,824 - ccmcmd.ccmlog - INFO - Total FQDNs found: 1</pre>=
+=20
+</div>
+</div>
+<p>To view the list of available apps run&nbsp;<code>--help</code></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-put --help
+usage: ccmcmd [OPTIONS] consul keyval-put [-h] --key KEY --val VAL --app
+                                          {hiera,icinga}
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --key KEY             Consul Key.
+  --val VAL             Consul Val.
+  --app {hiera,icinga}  Consul KV available apps. Immutable apps: facter</p=
+re>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target"><strong>Note</strong>: Immutable apps canno=
+t be updated or modified in anyway, they are for read-only. To view them us=
+e&nbsp;<code>keyval-get</code>.</p>
+<h3 id=3D"CCMCMD-keyval-delete">keyval-delete</h3>
+<p>keyval-delete is to delete existing keys.</p>
+<p><br></p>
+<p>Lets delete a key to hiera app.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-delete --app hiera --key over-9000
+Please type 'over-9000': over-9000
+
+2018-09-21 19:22:27,765 - ccmcmd.ccmlog - INFO - Successfully deleted key p=
+ath hiera/node/[FQDN]/over-9000</pre>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target">You can view the added/updated key.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-get --app hiera
+
+2018-09-21 19:23:38,555 - ccmcmd.ccmlog - ERROR - No keys found.</pre>=20
+</div>
+</div>
+<p><strong>Note</strong>: Just like&nbsp;<code>keyval-put</code> immutable =
+apps keyval cannot be deleted.</p>
+<p><br></p>
+<p>In order to delete more than one key at once please enable&nbsp;<code>kv=
+_apps_mass_delete: true</code> in the config. Please be careful when this o=
+ption is enabled as all KV related to a FQDN could potentially be deleted.<=
+/p>
+<p class=3D"auto-cursor-target">To delete all keys from a particular app fo=
+r a fqdn.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-delete --app hiera
+Please type '[fqdn]:hiera': [fqdn]:hiera
+
+2018-09-21 19:22:27,765 - ccmcmd.ccmlog - INFO - Successfully deleted key p=
+ath hiera/node/[FQDN]</pre>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target">To delete all keys from all apps for a fqdn=
+.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">$ ccmcmd co=
+nsul --fqdn [FQDN] keyval-delete
+Please type '[fqdn]:mass-delete-keys': [fqdn]:mass-delete-keys
+
+2018-09-21 19:22:27,765 - ccmcmd.ccmlog - INFO - Successfully deleted key p=
+ath hiera/node/[FQDN]
+2018-09-21 19:22:27,765 - ccmcmd.ccmlog - INFO - Successfully deleted key p=
+ath icinga/node/[FQDN]</pre>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target"><strong>Note</strong>: Immutable apps such =
+as&nbsp;<code>facter</code> will still not be deleted even if mass delete i=
+s enabled in config. They need to be removed from the&nbsp;<code>kv_apps_im=
+mutable</code> list then you can delete them.</p>
+<h2 id=3D"CCMCMD-Logging">Logging</h2>
+<p class=3D"auto-cursor-target">Currently the script logs in&nbsp;<strong><=
+code>/var/log/ccmcmd.log</code></strong> and the package log rotates the fi=
+le every couple of megabytes. Be sure the user running ccmcmd has permissio=
+ns to write to this log file or it will error. Unfortunately none of these =
+settings (log location, log config, etc.) are customizable at this time, it=
+s something TODO for a future iteration.</p>
+<h2 id=3D"CCMCMD-Contribute">Contribute</h2>
+<p>By popular demand I wrote this in Python. The wrapper is packaged in pip=
+ so its pretty easy to install, develop and contribute to. The package has =
+been written in a modular way so one application doesn't touch the other so=
+ if you want to try integrating something new please feel free to make a PR=
+, you won't break anything&nbsp;<img class=3D"emoticon emoticon-smile" data=
+-emoji-id=3D"1f642" data-emoji-shortname=3D":slight_smile:" data-emoji-fall=
+back=3D"=F0=9F=99=82" src=3D"c5fd2b516630f332d3f78560d71b3930" data-emotico=
+n-name=3D"smile" alt=3D"(smile)" width=3D"16" height=3D"16">. Below are a f=
+ew instructions to get you started</p>
+<ul>
+<li><p class=3D"auto-cursor-target">Use&nbsp;<code>pip</code> to install lo=
+cally.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">=E2=9E=9C w=
+get http://repo.&lt;location&gt;.ccmteam.com/repo/pip-packages/ccmcmd-0.1.0=
+.tar.gz
+=E2=9E=9C tar -zxvf ccmcmd-0.1.0.tar.gz; cd ccmcmd-0.1.0;
+=E2=9E=9C python setup.py develop
+=E2=9E=9C pip install .</pre>=20
+</div>
+</div></li>
+<li><p class=3D"auto-cursor-target">Before you can start using it though co=
+py&nbsp;<code><a href=3D"https://git.ccmteam.com/projects/SM/repos/ccmcmd/b=
+rowse/ccmcmd.yaml" class=3D"external-link" rel=3D"nofollow">ccmcmd.yaml</a>=
+</code>&nbsp;and update it accordingly. Place the file in&nbsp;<strong><cod=
+e>/opt/ccm/data</code></strong> or <strong><code>/etc</code></strong> (load=
+ed in that order) that config will be loaded first. If you would like to us=
+e another directory you can export the&nbsp;<code>CCMCMD_CONFIG_DIR</code> =
+variable which takes precedence and overrides the previous dirs. Just ensur=
+e this file is not readable by the world because of credentials. It must be=
+ readable by the user that is running&nbsp;<code>ccmcmd</code> i.e. you.</p=
+>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">=E2=9E=9C e=
+xport CCMCMD_CONFIG_DIR=3D/home/username</pre>=20
+</div>
+</div></li>
+<li><p class=3D"auto-cursor-target">To verify things are on the up and up r=
+un the&nbsp;<code>--help</code>.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: bash; gutter: false; theme: Midnight" data-theme=3D"Midnight">=E2=9E=9C c=
+cmcmd --help</pre>=20
+</div>
+</div></li>
+<li>Once you make you change make a PR in this repo
+<ul>
+<li><a href=3D"https://git.ccmteam.com/projects/SM/repos/ccmcmd/browse" cla=
+ss=3D"external-link" rel=3D"nofollow">https://git.ccmteam.com/projects/SM/r=
+epos/ccmcmd/browse</a></li>
+</ul></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_132_489727717.1554367120675
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/c5fd2b516630f332d3f78560d71b3930
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA3NCSVQICAjb4U/gAAAAdVBMVEX/
+///ht0zds0vbsUrZr0rZr0rZr0rXrUr/01H90VH7z1D5zVD2zVP3y1D3y0/1yU/xxk7tx1XwxU7v
+w07kwFfjuUzbulnht0zYuFnhtkvftUvds0vbsUrZr0rXrUrJrl3Vq0m3oWGllWSKgmqBfGx4dm5w
+cHDaNqLdAAAAJ3RSTlMAEXe7u8zd7v////////////////////////////////////////8ldzLI
+AAAACXBIWXMAAAsSAAALEgHS3X78AAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M2
+6LyyjAAAABR0RVh0Q3JlYXRpb24gVGltZQA2LzEvMTM4qUXQAAAAoUlEQVQYlU2P2xKDIAxEo9aY
+glatl1pQxOv/f2IDtE7PDA/ZkE0WgIkTw9xiCEQ4dZWUVTdh5OtMCfJInTkF33f6IhTyvOG+1kTD
+wH9MDGnHrfMMj1QKtvwXnhasc/iNkDBBuBAWTElbHqp8cyNsuh5LTVQvx0qvlNdKmveT2WcqeS2g
+O7Tt+5YdNPrTxyJ4PMYshEGjmkI2yoRwV/zEx/8A8pINjpN72iYAAAAASUVORK5CYII=
+------=_Part_132_489727717.1554367120675--

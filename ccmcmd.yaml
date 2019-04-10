@@ -1,0 +1,31 @@
+---
+common:
+  location_default: 'iad1'
+icinga:
+  common:
+    downtime_max_hours: 24
+  location:
+    iad1:
+      livestatus_host: 'icinga-master-1.ops.iad1.ccmteam.com'
+      livestatus_port: 6558
+    slc1:
+      livestatus_host: 'icinga-master-1.ops.slc1.ccmteam.com'
+      livestatus_port: 6558
+consul:
+  common:
+    cols_width_key: 30
+    cols_width_val: 50
+    kv_apps_available:
+      - 'facter'
+      - 'hiera'
+      - 'icinga'
+    kv_apps_immutable:
+      - 'facter'
+    kv_apps_mass_delete: false
+  location:
+    iad1:
+      url: 'http://localhost:8500/v1'
+      token: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
+    slc1:
+      url: 'http://localhost:8500/v1'
+      token: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'

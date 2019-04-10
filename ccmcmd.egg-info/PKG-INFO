@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: ccmcmd
+Version: 0.1.0
+Summary: CCM Team helper commands
+Home-page: https://git.ccmteam.com/projects/SM/repos/ccmcmd
+Author: AJ
+Author-email: ajambu@collectivei.com
+License: MIT
+Description: CCM Team helper commands for various internal services.
+Keywords: ccm team helper icinga consul functions
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Helper Commands :: Functions
